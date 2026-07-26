@@ -1,0 +1,10 @@
+marks1=94.4
+marks2=94.4
+marks3=94.8
+marks4=94.43
+marks5=98.76
+num=marks1,marks2,marks3,marks4,marks5
+print("num:",num)
+print(len(num))
+print(num[0])
+print(num[1])
